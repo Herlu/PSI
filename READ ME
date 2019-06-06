@@ -1,0 +1,14 @@
+READ ME :
+
+COMPILATEUR :
+
+lancer une compilation avec notre compilateur (sur le fichier compilateur/finaltest.c) et utiliser l'interpréteur python (interpreteur/interpreter.py):
+
+cd compilateur
+make test
+cd ..
+python /interpreteur/interpreter.py /compilateur/finaltest.s
+
+PROCESSEUR :
+
+Le dossier contient les fichiers vhdl des composants du processeur et les test bench (noté composant_test) pour votre information.
